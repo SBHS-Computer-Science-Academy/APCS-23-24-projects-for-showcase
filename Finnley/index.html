@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Final p5.js Project</title>
+  <script src="https://cdn.jsdelivr.net/npm/p5@1.4.1/lib/p5.js">
+  </script>
+  <script defer src="https://unpkg.com/p5.collide2d"></script>
+</head>
+
+<body>
+  <script> 
+    const fr = 60; //framerate
+    const rec = 40 / fr
+    let timePassed = 0;
+    const tspeed = 1.5 * rec; //top speed in pixels per frame
+    const trotspeed = 0.7 * rec; //top rotation speed in degrees per frame
+    const aimspd = 2 * rec; //rotation speed of turret
+    const reloadSpeed = 3.6; //seconds
+    const muzvel = 42 * tspeed * rec; //muzzle velocity is proportional to top speed
+  </script>
+  <script type="text/javascript" src="tank.js"></script>
+  <script type="text/javascript" src="tank2.js"></script>
+  <script type="text/javascript" src="script.js"></script>
+</body>
+
+</html>
