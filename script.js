@@ -23,23 +23,23 @@ var names =
 
 var urls = 
 [
-    "Aaliyah", // Aaliyah
-    "https://codehs.com/sandbox/id/ann-elly-final-bhaddie-project-n0agqO", // Ann and Ellie
-    "Anthony and Daniel", // Anthony and Daniel
-    "https://codehs.com/sandbox/id/apcs-final-project-t7KPFS", // Bea
+    "Aaliyah/index.html", // Aaliyah
+    "https://codehs.com/sandbox/id/ann-elly-final-bhaddie-project-n0agqO/run", // Ann and Ellie
+    "https://codehs.com/sandbox/id/mario-final-6pYkA3/run", // Anthony and Daniel
+    "https://codehs.com/sandbox/id/apcs-final-project-t7KPFS/run", // Bea
     "https://openprocessing.org/sketch/2273550", // Camille
-    "Chase and Zade", // Chase and Zade
-    "Dane", // Dane
-    "Felipe", // Felipe
+    "https://codehs.com/sandbox/id/new-sandbox-program-1S2f6f/run", // Chase and Zade
+    "Dane/index.html", // Dane
+    "https://e133ba4a-0e67-4bd0-b00c-037c60df2ade-00-2i899cz9fawdt.kirk.replit.dev/", // Felipe
     "Finnley/index.html", // Finnley
-    "https://codehs.com/sandbox/id/html-8h2QWb?collaborate=-Ny6Fese4kxieHgZPlmz", // Gavin and Matthew
-    "Ider", // Ider
-    "Larissa", // Larissa
-    "https://codehs.com/sandbox/id/new-sandbox-program-PvAL46?filepath=MyProgram.java", // Liam
-    "Lorenzo and Nikita", // Lorenzo and Nikita
-    "Owen", // Owen
-    "Sam", // Sam
-    "https://codehs.com/sandbox/id/2048-shane-final-project-vujDw9" // Shane
+    "https://html-10202801.codehs.me/index.html", // Gavin and Matthew
+    "Ider/index.html", // Ider
+    "https://codehs.com/sandbox/id/game-96s8Ch/run", // Larissa
+    "https://codehs.com/sandbox/id/blackjack-1c9aYo/run", // Liam
+    "https://html-10202809.codehs.me/index.html", // Lorenzo and Nikita
+    "https://codehs.com/sandbox/id/new-sandbox-program-SQrP7Q/run", // Owen
+    "https://codehs.com/sandbox/id/chatbot-C9ZUe0/run", // Sam
+    "https://codehs.com/sandbox/id/2048-shane-final-project-vujDw9/run" // Shane
 ];
 
 var gridWidth = 4;
