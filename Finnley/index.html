@@ -11,18 +11,23 @@
 </head>
 
 <body>
-  <script> 
+  <script>
+    const debug = false;
+    const fireSound = new Audio('/sound/fire.mp3');
+    const hitSound = new Audio('/sound/hit.mp3');
     const fr = 60; //framerate
     const rec = 40 / fr
     let timePassed = 0;
-    const tspeed = 1.5 * rec; //top speed in pixels per frame
-    const trotspeed = 0.7 * rec; //top rotation speed in degrees per frame
+    let multiplier = 0;
+    const maxSpeed = 1.5 * rec; //top speed in pixels per frame
+    const maxRotSpeed = 0.7 * rec; //top rotation speed in degrees per frame
+    const accel = 0.03; //acceleration in degrees per frame squared
+    const ammunition = 5;
     const aimspd = 2 * rec; //rotation speed of turret
-    const reloadSpeed = 3.6; //seconds
-    const muzvel = 42 * tspeed * rec; //muzzle velocity is proportional to top speed
+    const reloadSpeed = 3600; //milliseconds
+    const muzVel = 42 * maxSpeed; //muzzle velocity is proportional to top speed
   </script>
   <script type="text/javascript" src="tank.js"></script>
-  <script type="text/javascript" src="tank2.js"></script>
   <script type="text/javascript" src="script.js"></script>
 </body>
 

@@ -26,19 +26,19 @@ var urls =
     "Aaliyah/index.html", // Aaliyah
     "https://codehs.com/sandbox/id/ann-elly-final-bhaddie-project-n0agqO/run", // Ann and Ellie
     "https://codehs.com/sandbox/id/mario-final-6pYkA3/run", // Anthony and Daniel
-    "https://codehs.com/sandbox/id/apcs-final-project-t7KPFS/run", // Bea
+    "https://github.com/bea-75/portfolio", // Bea
     "https://openprocessing.org/sketch/2273550", // Camille
     "https://codehs.com/sandbox/id/new-sandbox-program-1S2f6f/run", // Chase and Zade
-    "Dane/index.html", // Dane
-    "https://e133ba4a-0e67-4bd0-b00c-037c60df2ade-00-2i899cz9fawdt.kirk.replit.dev/", // Felipe
+    "https://danyewest97.github.io/portfolio-template/", // Dane
+    "https://replit.com/@YourBoredom/Donkey-Kong-11?v=1#script.js", // Felipe
     "Finnley/index.html", // Finnley
     "https://html-10202801.codehs.me/index.html", // Gavin and Matthew
     "Ider/index.html", // Ider
     "https://codehs.com/sandbox/id/game-96s8Ch/run", // Larissa
-    "https://codehs.com/sandbox/id/blackjack-1c9aYo/run", // Liam
+    "https://sixtiess.github.io/portfolio/", // Liam
     "https://html-10202809.codehs.me/index.html", // Lorenzo and Nikita
-    "https://codehs.com/sandbox/id/new-sandbox-program-SQrP7Q/run", // Owen
-    "https://codehs.com/sandbox/id/chatbot-C9ZUe0/run", // Sam
+    "https://owenschiller.github.io/portfolio/", // Owen
+    "https://samuelramirez805.github.io/Final-Project-AP-Comp-Sci-2023-24/", // Sam
     "https://codehs.com/sandbox/id/2048-shane-final-project-vujDw9/run" // Shane
 ];
 
